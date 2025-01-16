@@ -10,3 +10,15 @@ Names: **Mia McCloskey + Opal Matthews**
 3. Theatre
 4. HAP
 5. Campus Ministry
+
+# Courses #
+- CS151
+- Medieval World
+- African Politics
+- Contemp. Catholic Life
+- Lit. and Film
+- Calc 1
+- Experience of Theatre
+- Pysch
+- Art of Reading
+- Data Analytics
