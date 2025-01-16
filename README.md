@@ -2,3 +2,11 @@
 # CS151-Starter-Lab
 
 This lab will get us started with GitHub.
+
+Names: **Mia McCloskey + Opal Matthews**
+
+1. Softball
+2. Belles Acapella
+3. Theatre
+4. HAP
+5. Campus Ministry
